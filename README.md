@@ -1,4 +1,5 @@
-#### Hi! I'm Artem, PHP/Symfony Developer from Ukraine 🇺🇦 who is learning GoLang
+Добрий день, everybody! I'm Artem, PHP/Symfony Developer from Ukraine 🇺🇦 who is learning GoLang  
+Here is a list of my most valuable open source contributions:
 
 🤖 My Telegram Bots:
 [Ukrainian to latin transliteration](https://t.me/transliteration_ua_bot)
