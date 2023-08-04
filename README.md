@@ -3,7 +3,7 @@ Here is a list of my most valuable open source contributions, I'm currently supp
 
 🤖 My Telegram Bots:
 [Ukrainian-to-latin transliteration](https://t.me/transliteration_ua_bot) [(source)](https://github.com/fre5h/transliteration-telegram-bot),
-[RNOKPP](https://t.me/rnokpp_bot) [(source)](https://github.com/fre5h/rnokpp-telegram-bot)  
+[RNOKPP](https://t.me/rnokpp_bot) [(source)](https://github.com/fre5h/rnokpp-telegram-bot), [Shelters in Ukraine (Укриття)](https://t.me/UkraineShelterStfalconBott)  
 ⚙️ My Console Tools: 
 [prom-cli](https://github.com/fre5h/prom-cli)  
 📦 My Symfony Bundles:
