@@ -1,18 +1,16 @@
-Hi! I'm Artem, PHP/Symfony Developer from Ukraine 🇺🇦 who is learning GoLang  
-Here is a list of my most valuable open source contributions, I'm currently supporting or working on:
+Hi! I'm Artem, PHP/Symfony/GoLang Developer from Ukraine 🇺🇦  
+Here is a list of some my of open source contributions, I'm currently supporting or working on:
 
-🤖 My Telegram Bots:
+* My Telegram Bots:
 [Ukrainian-to-latin transliteration](https://t.me/transliteration_ua_bot) [(source)](https://github.com/fre5h/transliteration-telegram-bot),
 [RNOKPP](https://t.me/rnokpp_bot) [(source)](https://github.com/fre5h/rnokpp-telegram-bot), [Shelters in Ukraine (Укриття)](https://t.me/UkraineShelterStfalconBott)  
-📦 My Symfony Bundles:
+* My Symfony Bundles:
 [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle),
 [CentrifugoBundle](https://github.com/fre5h/CentrifugoBundle),
-[VichUploaderSerializationBundle](https://github.com/fre5h/VichUploaderSerializationBundle),
-[SinchBundle](https://github.com/fre5h/SinchBundle)  
-🐘 My PHP Libraries:
+* My PHP Libraries:
 [transliteration-php](https://github.com/fre5h/transliteration-php),
 [datetime-php](https://github.com/fre5h/datetime-php)  
-😍 My Go Libraries:
+* My Go Libraries:
 [rnokpp](https://github.com/fre5h/rnokpp),
 [transliteration-go](https://github.com/fre5h/transliteration-go)
 
